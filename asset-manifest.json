@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SciAstra/static/css/main.a986a61f.css",
+    "main.js": "/SciAstra/static/js/main.8de0bfc2.js",
+    "static/js/787.f69edf62.chunk.js": "/SciAstra/static/js/787.f69edf62.chunk.js",
+    "static/media/footerbg.jpg": "/SciAstra/static/media/footerbg.be6e38127974e119b0cc.jpg",
+    "static/media/vd.webp": "/SciAstra/static/media/vd.56de9221040d0029a796.webp",
+    "static/media/error.jpeg": "/SciAstra/static/media/error.ccff5cd46064e6a9e34c.jpeg",
+    "static/media/pv.webp": "/SciAstra/static/media/pv.9738f74f6a912ba92bf2.webp",
+    "static/media/sm.webp": "/SciAstra/static/media/sm.79ca53e2831c30a0cd8a.webp",
+    "static/media/td.webp": "/SciAstra/static/media/td.fb875d6204989beb5795.webp",
+    "static/media/at.webp": "/SciAstra/static/media/at.d1bd70b26c4610eedac9.webp",
+    "static/media/an.webp": "/SciAstra/static/media/an.22520931857b003ad20e.webp",
+    "static/media/ok.webp": "/SciAstra/static/media/ok.e42013585b94171b37ae.webp",
+    "static/media/logo.webp": "/SciAstra/static/media/logo.02e6a127af38cf9da03a.webp",
+    "static/media/kt.webp": "/SciAstra/static/media/kt.8475a87c3d21c6a323ff.webp",
+    "static/media/revicons.eot": "/SciAstra/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/SciAstra/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/SciAstra/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/SciAstra/index.html",
+    "main.a986a61f.css.map": "/SciAstra/static/css/main.a986a61f.css.map",
+    "main.8de0bfc2.js.map": "/SciAstra/static/js/main.8de0bfc2.js.map",
+    "787.f69edf62.chunk.js.map": "/SciAstra/static/js/787.f69edf62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a986a61f.css",
+    "static/js/main.8de0bfc2.js"
+  ]
+}
